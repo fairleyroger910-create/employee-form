@@ -1,4 +1,8 @@
 # Getting Started with Create React App
+# Employee Form App
+
+This React app saves employee data to the browser’s Local Storage.  
+It demonstrates persistent data storage using JSON.stringify() and localStorage.setItem().
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
