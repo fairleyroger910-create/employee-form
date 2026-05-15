@@ -72,3 +72,25 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+# Employee Management App
+
+This React application allows users to manage employee data using localStorage.  
+Features include:
+- Add, edit, and delete employees
+- Persistent data storage
+- Routing between list, form, and detail views
+- Simple responsive design
+
+## How to Run
+1. Clone the repository or unzip the project.
+2. Run `npm install` to install dependencies.
+3. Run `npm start` to launch the app.
+4. Open [http://localhost:3000](http://localhost:3000) in your browser.
+
+## Technologies
+- React
+- React Router
+- LocalStorage
+- CSS
+
